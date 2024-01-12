@@ -3,7 +3,7 @@ include "menu.php";
 ?>
 
 <div class="main-content">
-  <form action="db.php" method="post">
+  <form action="db.php" method="POST">
    <div class="title">Item Entry Form</div>
      <div class="content">
      <label> Item Name</label>

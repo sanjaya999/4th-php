@@ -16,7 +16,7 @@
 	</div>
 <div class="menu">
 	<a href="insert.php"  >Insert Items</a>
-	<a href="" >Display Items</a>
+	<a href="display.php" >Display Items</a>
 	<a href="" >SingUp User</a>
 	<a href="" >Display User</a>
 	<a href="" >Purchase</a>
